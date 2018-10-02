@@ -1,0 +1,10 @@
+body {
+    text-align: center
+}
+.image {
+    float: left;
+}
+.page1 {
+    float: left;
+    background-color: #4aaaa5;
+}
