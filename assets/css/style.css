@@ -1,11 +1,19 @@
-body {
-    text-align: center
+.name1 {
+background-color: #4aaaa5;
+color: #ffffff;
+width: 5%;
+position: relative;
+left: 3in;
+font-size: 20px;
 }
-.page1 {
-    float: left;
-    background-color: #4aaaa5;
-}
-
-.1 {
-border: 1px solid blue;
+a {
+    background-color: white;
+    font-size: 20px;
+    float: right;
+   right: 2in;
+    top: 15px;
+    position: relative;
+    text-decoration: none;
+    width: 9%;
+    font-size: 14px;
 }
