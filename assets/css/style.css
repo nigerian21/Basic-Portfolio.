@@ -5,15 +5,76 @@ width: 5%;
 position: relative;
 left: 3in;
 font-size: 20px;
+top: 15px;
 }
 a {
     background-color: white;
     font-size: 20px;
     float: right;
    right: 2in;
-    top: 15px;
+    top: 4px;
     position: relative;
     text-decoration: none;
     width: 9%;
     font-size: 14px;
+    clear: left;
+}
+
+    
+.about {
+    position: relative;
+    left: .5in;
+}
+.whole {
+   padding-left: 3in;
+   padding-right: 3in;
+   padding-top: 3in;
+   padding-bottom: 3in;
+   paddi
+   
+}
+.pic {
+    position: relative;
+    left: .5in;
+    border-top-color: teal;
+    border: #4aaaa5
+}
+.foot {
+    position: relative; 
+    bottom: 2px;
+    background-color: #666666;
+    height: 1in;
+    width: 100%;i
+    text-align: center;
+}
+.forms {
+    padding-left: 3in;
+    padding-right: 3in;
+    padding-top: 3in;
+    padding-bottom: 3in;
+    border: #dddddd solid;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+
+
+}
+.foot2 {
+    position: relative; 
+    bottom: 2px;
+    background-color: #666666;
+    height: 1in;
+    width: 100%;
+    text-align: center;
+
+}
+.name2 {
+    background-color: #4aaaa5;
+    color: white;
+    width: 11%;
+    position: relative;
+    left: 3in;
+}
+.contact {
+    color: #4aaaa5;
 }
