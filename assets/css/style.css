@@ -78,3 +78,25 @@ a {
 .contact {
     color: #4aaaa5;
 }
+.interest {
+    position: relative;
+    padding-top: 2in;
+    left: 3in;
+    border-top: blue solid;
+    width: 100%;
+}
+
+.p3 {
+    position: relative;
+    left: 3in;
+    margin-top: 1.5in;
+    color: teal;
+}
+.foot3 {
+    position: relative; 
+    bottom: 2px;
+    background-color: #666666;
+    height: 1in;
+    width: 100%;
+    text-align: center;
+}
